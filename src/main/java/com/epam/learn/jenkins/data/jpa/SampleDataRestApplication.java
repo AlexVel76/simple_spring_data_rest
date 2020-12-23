@@ -30,6 +30,12 @@ import org.springframework.data.rest.webmvc.config.RepositoryRestMvcConfiguratio
 public class SampleDataRestApplication {
 
 	public static void main(String[] args) throws Exception {
+
+		if (null==null)
+		{}
+
+		//jaflkjhflkajshdflkja
+
 		SpringApplication.run(SampleDataRestApplication.class, args);
 		//TODO: some new commit
 	}
